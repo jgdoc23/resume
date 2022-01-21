@@ -19,14 +19,10 @@ Overview description....
 - y
 - z
 
-#### Technical Writer/Trainer - Imperisoft, LLC, Anthem, AZ
+### Technical Writer/Trainer - Imperisoft, LLC, Anthem, AZ
+#### 2008 - 2010
 Overview description of role and responsibilities
 
-#### Technical Writer - Sage Software, Scottsdale, AZ
+### Technical Writer - Sage Software, Scottsdale, AZ
+#### 2005 - 2008
 Overivew description of role and responsiblities
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jgdoc23/resume/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.

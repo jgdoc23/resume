@@ -13,11 +13,9 @@
 ### Senior Technical Writer - Savvas Learning Company (formerly Pearson Education), Chandler AZ
 #### 2010 - October 2021
 Overview description....
-- Let team in reduction of content development time by converting PDF/print documentation to HTML and utilizing MadCap Flare variables, snippets, and conditions for content reuse.
-- Partnered with UX, Technical Product Managment, and Development temas to implement context senstive help for primary Help system.
-- x
-- y
-- z
+- Led team in reduction of content development time by converting PDF/print documentation to HTML and utilizing MadCap Flare variables, snippets, and conditions for content reuse.
+- Partnered with UX, Technical Product Managment, and Development teams to implement context senstive help for primary Help system.
+- 
 
 ### Technical Writer/Trainer - Imperisoft, LLC, Anthem, AZ
 #### 2008 - 2010
